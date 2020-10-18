@@ -2,9 +2,10 @@ let resumeData = {
   "imagebaseurl": "https://github.com/Strouble03",
   "name": "Albertson Domingo",
   "role": "Junior Web Developer and Data Analyst",
-  "linkedinId": "Your LinkedIn Id",
+  "url": "https://www.linkedin.com/in/albertson-domingo-43292518b",
+  "linkedinId": " Albertson Domingo",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": " I like experimenting in various parts of frontend development and like to learn about new technologies, watching photo editing techniques or simply play games in my free time.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -22,7 +23,7 @@ let resumeData = {
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": "I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  "aboutme": "I am a graduate of Institute of Information Technology. I am a self taught Web Developer, currently diving deeper into Web Development. “A website without visitors is like a ship lost in the horizon.",
   "address": "Isabela, Philippines",
   "website": "https://github.com/Strouble03",
   "education": [
